@@ -1,2 +1,2 @@
 # logDB
-Creating a log based database as an experiment
+Creating a log based key-value database as an experiment
