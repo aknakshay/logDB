@@ -1,7 +1,5 @@
 FROM ubuntu:20.04
 
-MAINTAINER Your Name "akshaynagpal1995@gmail.com"
-
 RUN apt-get update -y && \
     apt-get install -y python3-pip python-dev
 
